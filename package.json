@@ -1,5 +1,5 @@
 {
-  "name": "@samuelaure/types",
+  "name": "@samuelaure/nau-types",
   "version": "0.1.0",
   "description": "Canonical TypeScript types for the naŭ Platform",
   "main": "./dist/index.js",
